@@ -1,0 +1,2 @@
+---
+columns_to_drop: everything except the Country_of_Residence, EAI_1,and EAI_2.
